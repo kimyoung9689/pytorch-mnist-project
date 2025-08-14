@@ -1,1 +1,10 @@
+# 데이터셋 파일
 data/
+
+# 학습된 모델 파일을 Git 추적 대상에서 제외
+mnist_cnn_model.pth
+
+
+
+
+
