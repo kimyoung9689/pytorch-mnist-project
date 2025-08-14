@@ -9,7 +9,7 @@ PyTorch 딥러닝 프레임워크를 활용하여 MNIST 손글씨 데이터셋�
 
 - 프레임워크: PyTorch==12.8
 
- 라이브러리:
+ - 라이브러리:
     - torch==2.8.0
     - torchvision==0.23.0
     - numpy==2.3.1
